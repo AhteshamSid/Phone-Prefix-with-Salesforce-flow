@@ -10,3 +10,7 @@ On Setup first goto 'State and Country/Territory Picklists' and enable it.
 force-app\main\default\flows\Contact_Add_Phone_Extention_with_Mailing_Country.flow-meta.xml  The field "MailingCountryCode" for the object "Contact" doesn't exist.
 
 ---
+
+<div id="header" align="center">
+  <img src="Phone_ext_flow.gif" width="100"/>
+</div>
