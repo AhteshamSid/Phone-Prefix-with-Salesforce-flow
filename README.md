@@ -12,5 +12,5 @@ force-app\main\default\flows\Contact_Add_Phone_Extention_with_Mailing_Country.fl
 ---
 
 <div id="header" align="center">
-  <img src="Phone_ext_flow.gif" width="100"/>
+  <img src="Phone ext flow.gif" />
 </div>
